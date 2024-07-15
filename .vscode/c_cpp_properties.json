@@ -3,19 +3,19 @@
         {
             "name": "1_LED",
             "includePath": [
-                "c:\\Users\\Administrator\\Desktop\\HAL_learn\\4_USART_all_number\\Core\\Inc",
-                "c:\\Users\\Administrator\\Desktop\\HAL_learn\\4_USART_all_number\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
-                "c:\\Users\\Administrator\\Desktop\\HAL_learn\\4_USART_all_number\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
-                "c:\\Users\\Administrator\\Desktop\\HAL_learn\\4_USART_all_number\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
-                "c:\\Users\\Administrator\\Desktop\\HAL_learn\\4_USART_all_number\\Drivers\\CMSIS\\Include",
-                "c:\\Users\\Administrator\\Desktop\\HAL_learn\\4_USART_all_number\\my",
+                "c:\\Users\\Administrator\\Desktop\\HAL_learn\\4_USART_All_number\\Core\\Inc",
+                "c:\\Users\\Administrator\\Desktop\\HAL_learn\\4_USART_All_number\\Drivers\\STM32F1xx_HAL_Driver\\Inc",
+                "c:\\Users\\Administrator\\Desktop\\HAL_learn\\4_USART_All_number\\Drivers\\STM32F1xx_HAL_Driver\\Inc\\Legacy",
+                "c:\\Users\\Administrator\\Desktop\\HAL_learn\\4_USART_All_number\\Drivers\\CMSIS\\Device\\ST\\STM32F1xx\\Include",
+                "c:\\Users\\Administrator\\Desktop\\HAL_learn\\4_USART_All_number\\Drivers\\CMSIS\\Include",
+                "c:\\Users\\Administrator\\Desktop\\HAL_learn\\4_USART_All_number\\my",
                 "F:\\keil5\\ARM\\ARMCC\\include",
                 "F:\\keil5\\ARM\\ARMCC\\include\\arm_linux",
                 "F:\\keil5\\ARM\\ARMCC\\include\\arm_linux_compat",
                 "F:\\keil5\\ARM\\ARMCC\\include\\rw",
-                "c:\\Users\\Administrator\\Desktop\\HAL_learn\\4_USART_all_number\\MDK-ARM",
-                "c:\\Users\\Administrator\\Desktop\\HAL_learn\\4_USART_all_number\\Core\\Src",
-                "c:\\Users\\Administrator\\Desktop\\HAL_learn\\4_USART_all_number\\Drivers\\STM32F1xx_HAL_Driver\\Src"
+                "c:\\Users\\Administrator\\Desktop\\HAL_learn\\4_USART_All_number\\MDK-ARM",
+                "c:\\Users\\Administrator\\Desktop\\HAL_learn\\4_USART_All_number\\Core\\Src",
+                "c:\\Users\\Administrator\\Desktop\\HAL_learn\\4_USART_All_number\\Drivers\\STM32F1xx_HAL_Driver\\Src"
             ],
             "defines": [
                 "USE_HAL_DRIVER",
